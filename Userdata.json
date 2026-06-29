@@ -4,21 +4,21 @@
         "username": "Salman123",
         "password": "Salman123",
         "expirydate": "17-11-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "cccde0afb926f3dd",
         "username": "Salman990",
         "password": "Salman990",
         "expirydate": "14-10-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "4911e849135649a6",
         "username": "Zeeshan125",
         "password": "Zeeshan125",
         "expirydate": "11-11-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     },   
     {
         "device_id": "d00ec4b64473f3cc",
