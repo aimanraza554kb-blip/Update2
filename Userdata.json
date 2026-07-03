@@ -1,10 +1,10 @@
 [
     {
         "device_id": "d9e8386cea2877bf",
-        "username": "Salman123",
-        "password": "Salman123",
+        "username": "Salman",
+        "password": "Salman",
         "expirydate": "17-11-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "cccde0afb926f3dd",
