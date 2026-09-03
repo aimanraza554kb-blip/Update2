@@ -55,5 +55,12 @@
         "password": "Tehmina001",
         "expirydate": "19-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "251eea8772e6ad6d",
+        "username": "Test123",
+        "password": "Test123",
+        "expirydate": "19-12-2027",
+        "Allowoffline": false
     }
 ]
