@@ -69,5 +69,12 @@
         "password": "Aleey123",
         "expirydate": "19-12-2027",
         "Allowoffline": false
-      }
+      },
+    {
+        "device_id": "db9048da5ba32ada",
+        "username": "samikhan",
+        "password": "samikhan011",
+        "expirydate": "19-12-2027",
+        "Allowoffline": false
+    }
 ]
